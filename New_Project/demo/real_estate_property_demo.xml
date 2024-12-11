@@ -1,0 +1,84 @@
+<odoo>
+    <data noupdate="0">
+        <record id="property_1" model="real.estate.property">
+            <field name="name">Modern Apartment</field>
+            <field name="location">New York</field>
+            <field name="price">500000</field>
+            <field name="property_type">sale</field>
+            <field name="description">A beautiful modern apartment in the heart of the city.</field>
+            <field name="status">available</field>
+        </record>
+        <record id="property_2" model="real.estate.property">
+            <field name="name">Luxury Villa</field>
+            <field name="location">Los Angeles</field>
+            <field name="price">1200000</field>
+            <field name="property_type">sale</field>
+            <field name="description">A luxurious villa with a swimming pool and garden.</field>
+            <field name="status">available</field>
+        </record>
+        <record id="property_3" model="real.estate.property">
+            <field name="name">Cozy Studio</field>
+            <field name="location">San Francisco</field>
+            <field name="price">300000</field>
+            <field name="property_type">rent</field>
+            <field name="description">Perfect for young professionals or students.</field>
+            <field name="status">available</field>
+        </record>
+        <record id="property_4" model="real.estate.property">
+            <field name="name">Beach House</field>
+            <field name="location">Miami</field>
+            <field name="price">800000</field>
+            <field name="property_type">sale</field>
+            <field name="description">A stunning beach house with ocean views.</field>
+            <field name="status">sold</field>
+        </record>
+        <record id="property_5" model="real.estate.property">
+            <field name="name">Urban Flat</field>
+            <field name="location">Chicago</field>
+            <field name="price">450000</field>
+            <field name="property_type">rent</field>
+            <field name="description">Located in a prime downtown area.</field>
+            <field name="status">rented</field>
+        </record>
+        <record id="property_6" model="real.estate.property">
+            <field name="name">Country House</field>
+            <field name="location">Texas</field>
+            <field name="price">400000</field>
+            <field name="property_type">sale</field>
+            <field name="description">A peaceful retreat in the countryside.</field>
+            <field name="status">available</field>
+        </record>
+        <record id="property_7" model="real.estate.property">
+            <field name="name">Penthouse</field>
+            <field name="location">Seattle</field>
+            <field name="price">950000</field>
+            <field name="property_type">sale</field>
+            <field name="description">Top floor penthouse with stunning skyline views.</field>
+            <field name="status">sold</field>
+        </record>
+        <record id="property_8" model="real.estate.property">
+            <field name="name">Farmhouse</field>
+            <field name="location">Nashville</field>
+            <field name="price">700000</field>
+            <field name="property_type">sale</field>
+            <field name="description">Spacious farmhouse with modern amenities.</field>
+            <field name="status">available</field>
+        </record>
+        <record id="property_9" model="real.estate.property">
+            <field name="name">Office Space</field>
+            <field name="location">Dallas</field>
+            <field name="price">600000</field>
+            <field name="property_type">rent</field>
+            <field name="description">Ideal for startups and small businesses.</field>
+            <field name="status">available</field>
+        </record>
+        <record id="property_10" model="real.estate.property">
+            <field name="name">Duplex</field>
+            <field name="location">Boston</field>
+            <field name="price">550000</field>
+            <field name="property_type">sale</field>
+            <field name="description">Conveniently located duplex in a quiet neighborhood.</field>
+            <field name="status">rented</field>
+        </record>
+    </data>
+</odoo>

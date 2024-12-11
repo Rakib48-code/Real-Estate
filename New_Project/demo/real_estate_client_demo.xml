@@ -1,0 +1,54 @@
+<odoo>
+    <data noupdate="0">
+        <record id="client_1" model="real.estate.client">
+            <field name="name">John Doe</field>
+            <field name="phone">1234567890</field>
+            <field name="email">john.doe@example.com</field>
+        </record>
+        <record id="client_2" model="real.estate.client">
+            <field name="name">Jane Smith</field>
+            <field name="phone">9876543210</field>
+            <field name="email">jane.smith@example.com</field>
+        </record>
+        <record id="client_3" model="real.estate.client">
+            <field name="name">Michael Johnson</field>
+            <field name="phone">5556667777</field>
+            <field name="email">michael.johnson@example.com</field>
+        </record>
+        <record id="client_4" model="real.estate.client">
+            <field name="name">Emily Davis</field>
+            <field name="phone">4445556666</field>
+            <field name="email">emily.davis@example.com</field>
+        </record>
+        <record id="client_5" model="real.estate.client">
+            <field name="name">Robert Brown</field>
+            <field name="phone">1112223333</field>
+            <field name="email">robert.brown@example.com</field>
+        </record>
+        <record id="client_6" model="real.estate.client">
+            <field name="name">Linda Wilson</field>
+            <field name="phone">9998887777</field>
+            <field name="email">linda.wilson@example.com</field>
+        </record>
+        <record id="client_7" model="real.estate.client">
+            <field name="name">William Jones</field>
+            <field name="phone">2223334444</field>
+            <field name="email">william.jones@example.com</field>
+        </record>
+        <record id="client_8" model="real.estate.client">
+            <field name="name">Elizabeth Garcia</field>
+            <field name="phone">3334445555</field>
+            <field name="email">elizabeth.garcia@example.com</field>
+        </record>
+        <record id="client_9" model="real.estate.client">
+            <field name="name">James Martinez</field>
+            <field name="phone">6667778888</field>
+            <field name="email">james.martinez@example.com</field>
+        </record>
+        <record id="client_10" model="real.estate.client">
+            <field name="name">Patricia Anderson</field>
+            <field name="phone">7778889999</field>
+            <field name="email">patricia.anderson@example.com</field>
+        </record>
+    </data>
+</odoo>
